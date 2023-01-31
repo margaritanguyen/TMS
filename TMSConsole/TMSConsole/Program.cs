@@ -11,7 +11,6 @@ namespace TMSConsole
             Console.Write("Your name is ");
             Console.WriteLine(name);
             Console.ReadLine();
-            Console.ReadLine();
         }
     }
 }
